@@ -5,6 +5,9 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 
 ## Datos de acceso
 
+**bandit.labs.overthewire.org**
+
+**bandit0**
 
 ## Solución
 
