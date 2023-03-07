@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "27b06360ece5f170",
+        "id": "3252c97305226b45",
         "type": "tabs",
         "children": [
           {
-            "id": "e6721c5f53b8dbea",
+            "id": "f29d8f7146b48ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Level 5 to 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f805c5f050e72f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 6 to 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a7b68a04a4b5c25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 7 to 8.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "715217de17dfdc81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 8 to 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8edb8038a544b9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 9 to 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff0639fb03a68826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 10 to 11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d10b85774113e7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd289aff544dbbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 12 to 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd9f4ed46dc32de6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 13 to 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973c91ad987e48e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 14 to 15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "815cb437445d3d76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 15 to 16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53ec5f888c5b9921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 16 to 17.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f288a10420878c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 17 to 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "730c689a03bb49f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 18 to 19.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0080a6e977a90def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 19 to 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e713ac4eb1e925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 20 to 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8428123ad228c187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Level 0.md",
+                "file": "Bandit/Level 24 to 25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ad99fcf1b08a317e",
@@ -278,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 0.md",
+                "file": "Bandit/Level 24 to 25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 0.md",
+                "file": "Bandit/Level 24 to 25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 0.md"
+                "file": "Bandit/Level 24 to 25.md"
               }
             }
           }
@@ -339,17 +146,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8428123ad228c187",
+  "active": "f29d8f7146b48ebd",
   "lastOpenFiles": [
-    "Level 21 to 22.md",
-    "Level 20 to 21.md",
+    "Bandit/Level 25 to 26.md",
+    "Bandit/Level 24 to 25.md",
+    "Bandit/Level 23 to 24.md",
+    "Bandit/Level 26 to 27.md",
+    "Bandit/Level 27 to 28.md",
+    "Bandit/Level 28 to 29.md",
+    "Bandit/Level 29 to 30.md",
+    "Bandit/Level 30 to 31.md",
+    "Bandit/Level 31 to 32.md",
+    "Bandit/Level 32 to 33.md",
+    "Bandit/Level 33 to 34.md",
+    "Bandit/Level 22 to 23.md",
+    "Bandit/Level 21 to 22.md",
+    "Bandit/Level 20 to 21.md",
+    "Untitled.md",
     "Plantilla.md",
-    "Level 19 to 20.md",
-    "Level 18 to 19.md",
-    "Level 17 to 18.md",
-    "Level 16 to 17.md",
-    "Level 15 to 16.md",
-    "Level 14 to 15.md",
-    "Level 13 to 14.md"
+    "Bandit",
+    "PicosCTF/2019/05-Strings it.md",
+    "PicosCTF/2019/03-2Warm.md",
+    "PicosCTF/2019/02-Warmed Up.md",
+    "PicosCTF/2019/01-Lets Warm Up.md",
+    "PicosCTF/2019/04-What's net cat.md",
+    "PicosCTF/Plantilla.md",
+    "Bandit/Level 1 to 2.md",
+    "Untitled 1.md",
+    "PicosCTF/2019",
+    "PicosCTF",
+    "Bandit/Level 0.md",
+    "Bandit/Level 19 to 20.md"
   ]
 }
